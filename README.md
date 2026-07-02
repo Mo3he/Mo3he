@@ -1,12 +1,8 @@
 # Hi, I'm Weston (Moshe)
 
 I build software for the edge, mostly for Axis network cameras. My ACAPs let
-cameras run things they were never designed to run: VPN clients, media
-servers, and a self-contained event automation engine.
-
-Most of them follow the same pattern: a minimal C supervisor wrapping a
-statically compiled Go binary, with GitHub Actions tracking upstream
-releases automatically.
+cameras run things they were never designed to run:  
+VPN clients, media servers, and a self-contained event automation engine.
 
 ## VPNs on Axis cameras
 
