@@ -36,7 +36,7 @@ Serve camera video in formats the camera does not offer out of the box.
 
 ## Away from the cameras
 
-| Project | What it does | Ios App Store |
+| Project | What it does | iOS App Store |
 |---|---|---|
 | [ESPForge](https://github.com/Mo3he/ESPForge) | Visual, browser-based ESPHome configurator. No YAML required. |
 | [Homelab-Service-Monitor](https://github.com/Mo3he/Homelab-Service-Monitor) | Native iOS app for monitoring self-hosted services. 30+ integrations, widgets, alerts. | [Homelab Service Monitor](https://apps.apple.com/se/app/homelab-service-monitor/id6765596012?l=en-GB) |
