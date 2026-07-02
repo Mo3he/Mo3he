@@ -2,7 +2,8 @@
 
 I build software for the edge, mostly for Axis network cameras. My ACAPs let
 cameras run things they were never designed to run:  
-VPN clients, media servers, and a self-contained event automation engine.
+VPN clients, media servers, and a self-contained event automation engine.  
+"The camera didn't say no."
 
 ## VPNs on Axis cameras
 
