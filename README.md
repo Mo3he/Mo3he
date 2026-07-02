@@ -11,8 +11,8 @@ Remote access to your cameras with no NVR, no port forwarding and no cloud.
 | Project | What it does |
 |---|---|
 | [Axis_Cam_Tailscale](https://github.com/Mo3he/Axis_Cam_Tailscale) | Tailscale running natively on the camera. |
-| [Axis_Cam_WireGuard](https://github.com/Mo3he/Axis_Cam_WireGuard) | Plain WireGuard, for when you run your own server. |
 | [Axis_Cam_ZeroTier](https://github.com/Mo3he/Axis_Cam_ZeroTier) | ZeroTier, for peer-to-peer virtual networks. |
+| [Axis_Cam_WireGuard](https://github.com/Mo3he/Axis_Cam_WireGuard) | Plain WireGuard, for when you run your own server. |
 
 ## Streaming on Axis cameras
 
@@ -37,8 +37,8 @@ Serve camera video in formats the camera does not offer out of the box.
 
 | Project | What it does |
 |---|---|
-| [Homelab-Service-Monitor](https://github.com/Mo3he/Homelab-Service-Monitor) | Native iOS app for monitoring self-hosted services. 30+ integrations, widgets, alerts. |
 | [ESPForge](https://github.com/Mo3he/ESPForge) | Visual, browser-based ESPHome configurator. No YAML required. |
+| [Homelab-Service-Monitor](https://github.com/Mo3he/Homelab-Service-Monitor) | Native iOS app for monitoring self-hosted services. 30+ integrations, widgets, alerts. |
 | [VW-Dash](https://github.com/Mo3he/VW-Dash) | Self-hosted dashboard for VW ID vehicles: charge state, trips, battery health. |
 
 ## Elsewhere
