@@ -14,6 +14,7 @@ Remote access to your cameras with no NVR, no port forwarding and no cloud.
 | [Axis_Cam_Tailscale](https://github.com/Mo3he/Axis_Cam_Tailscale) | Tailscale running natively on the camera. |
 | [Axis_Cam_ZeroTier](https://github.com/Mo3he/Axis_Cam_ZeroTier) | ZeroTier, for peer-to-peer virtual networks. |
 | [Axis_Cam_WireGuard](https://github.com/Mo3he/Axis_Cam_WireGuard) | Plain WireGuard, for when you run your own server. |
+| [Axis_Cam_OpenVPN](https://github.com/Mo3he/Axis_Cam_OpenVPN) | OpenVPN client that runs directly on Axis cameras. |
 
 ## Streaming on Axis cameras
 
