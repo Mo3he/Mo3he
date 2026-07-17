@@ -10,7 +10,7 @@ VPN clients, media servers, and a self-contained event automation engine.
 
 ## VPNs on Axis cameras
 
-Remote access to your cameras with no NVR, no port forwarding and no cloud.
+Remote access to your cameras without any additional hardware.
 
 | Project | What it does |
 |---|---|
