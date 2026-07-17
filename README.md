@@ -50,5 +50,6 @@ Serve camera video in formats the camera does not offer out of the box.
 
 ## Elsewhere
 
+- LinkedIn [Weston Blieden](https://linkedin.com/in/weston-blieden-72888588)
 - YouTube: [MoMakesThings](https://youtube.com/@MoMakesThings)
-- Sponsor this work: [GitHub Sponsors](https://github.com/sponsors/Mo3he)
+
