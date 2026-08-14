@@ -5,9 +5,6 @@ cameras run things they were never designed to run:
 VPN clients, media servers, and a self-contained event automation engine.  
 "The camera didn't say no."
 
-[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Work-EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/Mo3he)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mo3he)
-
 ## VPNs on Axis cameras
 
 Remote access to your cameras without any additional hardware.
@@ -52,4 +49,8 @@ Serve camera video in formats the camera does not offer out of the box.
 
 - LinkedIn: [Weston Blieden](https://linkedin.com/in/weston-blieden-72888588)
 - YouTube: [MoMakesThings](https://youtube.com/@MoMakesThings)
+
+## Help me out
+[![Sponsor](https://img.shields.io/badge/Sponsor%20My%20Work-EA4AAA?style=flat&logo=github&logoColor=white)](https://github.com/sponsors/Mo3he)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mo3he)
 
