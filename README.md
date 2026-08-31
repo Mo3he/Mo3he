@@ -31,6 +31,7 @@ Serve camera video in formats the camera does not offer out of the box.
 | Project | What it does |
 |---|---|
 | [Event-Engine-ACAP](https://github.com/Mo3he/Event-Engine-ACAP) | If-this-then-that automation running entirely on the camera. Triggers, conditions, actions, MQTT, webhooks, schedules. |
+| [Axis-Cam-Metrics](https://github.com/Mo3he/Axis_Cam_Metrics) | Real-time device metrics dashboard. |
 | [Axis-Whisper](https://github.com/Mo3he/Axis-Whisper) | Live on-camera speech-to-text. |
 | [Axis-Switch-Manager](https://github.com/Mo3he/Axis-Switch-Manager) | Central dashboard for monitoring and configuring Axis network switches. |
 | [telegraf-execd-axis-aoa](https://github.com/Mo3he/telegraf-execd-axis-aoa) | Telegraf plugin for AXIS Object Analytics counting data. |
