@@ -57,6 +57,7 @@ Serve camera video in formats the camera does not offer out of the box.
 | Workshop | What you build |
 |---|---|
 | [Axis_Display_Queue_Workshop](https://github.com/Mo3he/Axis_Display_Queue_Workshop) | Live queue/information display on an Axis network speaker with a screen. |
+| [Axis_AQS_Data_Visualization](https://github.com/Axis-TTC/Axis_AQS_Data_Visualization) | MQTT, InfluxDB, Node-RED and Grafana stack for visualizing AXIS D6310 air quality data. |
 
 ## Elsewhere
 
