@@ -14,6 +14,7 @@ Remote access to your cameras without any additional hardware.
 | [Axis_Cam_Tailscale](https://github.com/Mo3he/Axis_Cam_Tailscale) | Tailscale running natively on the camera. |
 | [Axis_Cam_ZeroTier](https://github.com/Mo3he/Axis_Cam_ZeroTier) | ZeroTier, for peer-to-peer virtual networks. |
 | [Axis_Cam_WireGuard](https://github.com/Mo3he/Axis_Cam_WireGuard) | Plain WireGuard, for when you run your own server. |
+| [Axis_Cam_WireGuard_Server](https://github.com/Mo3he/Axis_Cam_WireGuard_Server) | WireGuard server and LAN gateway, so the camera is the VPN endpoint. |
 | [Axis_Cam_OpenVPN](https://github.com/Mo3he/Axis_Cam_OpenVPN) | OpenVPN 3 client, no kernel TUN needed. |
 | [Axis_Cam_NetBird](https://github.com/Mo3he/Axis_Cam_NetBird) | NetBird client, fully in userspace. |
 | [Axis_Cam_OpenConnect](https://github.com/Mo3he/Axis_Cam_OpenConnect) | GlobalProtect / Prisma Access client via OpenConnect. |
