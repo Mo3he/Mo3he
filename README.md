@@ -31,16 +31,25 @@ Stream live video, process media, and export recordings from the camera's SD car
 | [Axis_Cam_go2rtc](https://github.com/Mo3he/Axis_Cam_go2rtc) | go2rtc on the camera. Great with Home Assistant. |
 | [Axis_Cam_ffmpeg](https://github.com/Mo3he/Axis_Cam_ffmpeg) | ffmpeg/ffprobe on the camera, shared with other ACAPs like go2rtc. |
 | [Axis_Cam_Recording_Export](https://github.com/Mo3he/Axis_Cam_Recording_Export) | Review and bulk-export SD card recordings in the browser. |
+| [Axis-Whisper](https://github.com/Mo3he/Axis-Whisper) | Live on-camera speech-to-text. |
 
-## Automation and monitoring
+## Automation and industrial integrations
+
+Build camera-side workflows and connect Axis devices to building and industrial systems.
 
 | Project | What it does |
 |---|---|
 | [Event-Engine-ACAP](https://github.com/Mo3he/Event-Engine-ACAP) | If-this-then-that automation running entirely on the camera. Triggers, conditions, actions, MQTT, webhooks, schedules. |
-| [Axis_Cam_Metrics](https://github.com/Mo3he/Axis_Cam_Metrics) | Real-time device metrics dashboard. |
 | [Axis_Cam_BACnet](https://github.com/Mo3he/Axis_Cam_BACnet) | Exposes camera events to building management systems over BACnet/IP. |
 | [Axis_Cam_Sparkplug](https://github.com/Mo3he/Axis_Cam_Sparkplug) | Connects Axis cameras and sensors to industrial monitoring systems using MQTT Sparkplug B. |
-| [Axis-Whisper](https://github.com/Mo3he/Axis-Whisper) | Live on-camera speech-to-text. |
+
+## Monitoring and telemetry
+
+Monitor Axis devices and send operational and sensor data to your observability stack.
+
+| Project | What it does |
+|---|---|
+| [Axis_Cam_Metrics](https://github.com/Mo3he/Axis_Cam_Metrics) | Real-time device metrics dashboard. |
 | [Axis-Switch-Manager](https://github.com/Mo3he/Axis-Switch-Manager) | Central dashboard for monitoring and configuring Axis network switches. |
 | [telegraf-execd-axis-aoa](https://github.com/Mo3he/telegraf-execd-axis-aoa) | Telegraf plugin for AXIS Object Analytics counting data. |
 | [telegraf-execd-axis-airquality](https://github.com/Mo3he/telegraf-execd-axis-airquality) | Telegraf plugin for Axis air quality sensors. |
