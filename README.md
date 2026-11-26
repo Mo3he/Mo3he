@@ -5,7 +5,7 @@ cameras run things they were never designed to run:
 VPN clients, media servers, and a self-contained event automation engine.  
 "The camera didn't say no."
 
-[Explore the project guide](https://mo3he.github.io/) to choose an Axis camera app by task.
+[Explore the project hub](https://mo3he.github.io/) to browse all my Axis camera apps.
 
 ## VPNs on Axis cameras
 
