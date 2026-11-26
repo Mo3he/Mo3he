@@ -21,9 +21,9 @@ Remote access to your cameras without any additional hardware.
 | [Axis_Cam_Tailcat](https://github.com/Mo3he/Axis_Cam_Tailcat) | Ad-hoc remote access tunnel for Axis devices. |
 
 
-## Streaming on Axis cameras
+## Video and recordings
 
-Serve camera video in formats the camera does not offer out of the box.
+Stream live video, process media, and export recordings from the camera's SD card.
 
 | Project | What it does |
 |---|---|
