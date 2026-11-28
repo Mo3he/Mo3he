@@ -52,6 +52,7 @@ Monitor Axis devices and send operational and sensor data to your observability 
 | Project | What it does |
 |---|---|
 | [Axis_Cam_Metrics](https://github.com/Mo3he/Axis_Cam_Metrics) | Real-time device metrics dashboard. |
+| [Axis_Cam_Prometheus](https://github.com/Mo3he/Axis_Cam_Prometheus) | ACAP that exposes air quality, image health, Object Analytics counts and device events as Prometheus metrics. |
 | [Axis-Switch-Manager](https://github.com/Mo3he/Axis-Switch-Manager) | Central dashboard for monitoring and configuring Axis network switches. |
 | [telegraf-execd-axis-aoa](https://github.com/Mo3he/telegraf-execd-axis-aoa) | Telegraf plugin for AXIS Object Analytics counting data. |
 | [telegraf-execd-axis-airquality](https://github.com/Mo3he/telegraf-execd-axis-airquality) | Telegraf plugin for Axis air quality sensors. |
